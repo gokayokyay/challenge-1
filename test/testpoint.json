@@ -1,0 +1,39 @@
+{
+  "id": "dd91c645-1301-447d-baf9-40de4649d57a",
+  "title": "asd",
+  "description": "dsa",
+  "filters": {
+    "pointType": [
+      "shop"
+    ]
+  },
+  "location": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        28.28044713,
+        41.25105323
+      ]
+    },
+    "properties": {
+      "floorLevel": -1,
+      "shopCenterPoint": [
+        28.28044575,
+        41.25100344
+      ]
+    }
+  },
+  "navigation": {
+    "segments": [
+      {
+        "id": "90e400e3-d994-41e3-aa4e-a83fc7b7fd90",
+        "weight": 13.5,
+        "mapWeight": 21.774193548387096
+      }
+    ],
+    "properties": {
+      "isVisibleOnList": false
+    }
+  }
+}

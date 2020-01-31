@@ -1,0 +1,235 @@
+[{
+  "id": "90e400e3-d994-41e3-aa4e-a83fc7b7fd90",
+  "title": "Apple",
+  "description": "Elektronik",
+  "filters": {
+    "pointType": [
+      "shop"
+    ]
+  },
+  "location": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        28.28044713,
+        41.25105323
+      ]
+    },
+    "properties": {
+      "floorLevel": -1,
+      "shopCenterPoint": [
+        28.28044575,
+        41.25100344
+      ]
+    }
+  },
+  "navigation": {
+    "segments": [
+      {
+        "id": "dd91c645-1301-447d-baf9-40de4649d57a",
+        "weight": 13.5,
+        "mapWeight": 21.774193548387096
+      },
+      {
+        "id": "0867185c-2eb7-4a76-8596-c14f74a4acb1",
+        "weight": 8.5,
+        "mapWeight": 13.709677419354838
+      },
+      {
+        "id": "d20bd53e-361e-48fb-944f-dcdbf3e8defd",
+        "weight": 18.5,
+        "mapWeight": 29.838709677419356
+      }
+    ],
+    "properties": {
+      "isVisibleOnList": false
+    }
+  }
+},
+
+{
+  "id": "dd91c645-1301-447d-baf9-40de4649d57a",
+  "title": "MediaMarkt",
+  "description": "Elektronik",
+  "filters": {
+    "pointType": [
+      "shop"
+    ]
+  },
+  "location": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        28.28044713,
+        41.25105323
+      ]
+    },
+    "properties": {
+      "floorLevel": -1,
+      "shopCenterPoint": [
+        28.28044575,
+        41.25100344
+      ]
+    }
+  },
+  "navigation": {
+    "segments": [
+      {
+        "id": "90e400e3-d994-41e3-aa4e-a83fc7b7fd90",
+        "weight": 13.5,
+        "mapWeight": 21.774193548387096
+      },
+      {
+        "id": "d20bd53e-361e-48fb-944f-dcdbf3e8defd",
+        "weight": 6.15,
+        "mapWeight": 31.838709677419356
+      },
+      {
+        "id": "3620bd53e-361e-48fb-944f-dcdbf3e8defd",
+        "weight": 6.15,
+        "mapWeight": 16.838709677419356
+      }
+    ],
+    "properties": {
+      "isVisibleOnList": false
+    }
+  }
+},
+
+{
+  "id": "0867185c-2eb7-4a76-8596-c14f74a4acb1",
+  "title": "Vatan",
+  "description": "Elektronik",
+  "filters": {
+    "pointType": [
+      "shop"
+    ]
+  },
+  "location": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        28.28044713,
+        41.25105323
+      ]
+    },
+    "properties": {
+      "floorLevel": -1,
+      "shopCenterPoint": [
+        28.28044575,
+        41.25100344
+      ]
+    }
+  },
+  "navigation": {
+    "segments": [
+      {
+        "id": "90e400e3-d994-41e3-aa4e-a83fc7b7fd90",
+        "weight": 8.5,
+        "mapWeight": 13.709677419354838
+      }
+    ],
+    "properties": {
+      "isVisibleOnList": false
+    }
+  }
+},
+
+{
+  "id": "d20bd53e-361e-48fb-944f-dcdbf3e8defd",
+  "title": "Teknosa",
+  "description": "Elektronik",
+  "filters": {
+    "pointType": [
+      "shop"
+    ]
+  },
+  "location": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        28.28044713,
+        41.25105323
+      ]
+    },
+    "properties": {
+      "floorLevel": -1,
+      "shopCenterPoint": [
+        28.28044575,
+        41.25100344
+      ]
+    }
+  },
+  "navigation": {
+    "segments": [
+      {
+        "id": "90e400e3-d994-41e3-aa4e-a83fc7b7fd90",
+        "weight": 18.5,
+        "mapWeight": 29.838709677419356
+      },
+      {
+        "id": "dd91c645-1301-447d-baf9-40de4649d57a",
+        "weight": 6.15,
+        "mapWeight": 31.838709677419356
+      },
+      {
+        "id": "3620bd53e-361e-48fb-944f-dcdbf3e8defd",
+        "weight": 6.15,
+        "mapWeight": 12.838709677419356
+      }
+    ],
+    "properties": {
+      "isVisibleOnList": false
+    }
+  }
+},
+
+{
+  "id": "3620bd53e-361e-48fb-944f-dcdbf3e8defd",
+  "title": "Gold",
+  "description": "Elektronik",
+  "filters": {
+    "pointType": [
+      "shop"
+    ]
+  },
+  "location": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        28.28044713,
+        41.25105323
+      ]
+    },
+    "properties": {
+      "floorLevel": -1,
+      "shopCenterPoint": [
+        28.28044575,
+        41.25100344
+      ]
+    }
+  },
+  "navigation": {
+    "segments": [
+      {
+        "id": "d20bd53e-361e-48fb-944f-dcdbf3e8defd",
+        "weight": 6.15,
+        "mapWeight": 12.838709677419356
+      },
+      {
+        "id": "dd91c645-1301-447d-baf9-40de4649d57a",
+        "weight": 6.15,
+        "mapWeight": 16.838709677419356
+      }
+    ],
+    "properties": {
+      "isVisibleOnList": false
+    }
+  }
+}
+]
